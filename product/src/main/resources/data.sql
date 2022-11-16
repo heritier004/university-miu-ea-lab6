@@ -1,0 +1,7 @@
+INSERT INTO product (id, name, price, user_id) VALUES (1, 'milk', 25.5, 1)
+INSERT INTO product (id, name, price, user_id) VALUES (2, 'sweets', 25.5, 2)
+INSERT INTO product (id, name, price, user_id) VALUES (3, 'bread', 5.5, 3)
+INSERT INTO product (id, name, price, user_id) VALUES (4, 'steak', 10.8, 2)
+INSERT INTO product (id, name, price, user_id) VALUES (5, 'veg', 89.5, 2)
+INSERT INTO product (id, name, price, user_id) VALUES (6, 'corn', 4.0, 1)
+INSERT INTO product (id, name, price, user_id) VALUES (7, 'pie', 15.5, 3)
